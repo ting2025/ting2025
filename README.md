@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ching Ting LEUNG
+- 👋 Hi, I’m Tina
 - 👀 I’m interested in machine learning approaches in dealing with cheminformatics
 - 🌱 I’m currently a final year student at Hong Kong University of Science and Technology (BEng in Chemical Engineering and Artificial Intelligence)
 - 💞️ I’m looking for opportunities in postgraduate positions;)
